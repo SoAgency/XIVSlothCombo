@@ -35,7 +35,7 @@ namespace XIVSlothCombo.Data
 
             if (repo.InstalledFromUrl is null) return false;
 
-            if (repo.InstalledFromUrl == "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json")
+            if (repo.InstalledFromUrl == "https://raw.githubusercontent.com/SoAgency/XIVSlothCombo/main/pluginmaster.json")
                 return true;
             else
                 return false;
