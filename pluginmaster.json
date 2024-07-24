@@ -1,19 +1,23 @@
 [
     {
-        "Author": "attick, daemitus, alymphocyte, Aki, Iaotle, Codemned, rushtothesun, damolitionn",
+        "Author": "Team Sloth",
         "Name": "XIVSlothCombo",
-        "Description": "XIVCombo But For Lazy Gamers, Should Have Everything That Original XIVCombo Has And More +++",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "3.2.0.3",
         "RepoUrl": "https://github.com/SoAgency/XIVSlothCombo",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 10,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/SoAgency/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
         "DownloadLinkInstall": "https://github.com/SoAgency/XIVSlothCombo/raw/main/plugins/XIVSlothCombo/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/SoAgency/XIVSlothCombo/raw/main/plugins/XIVSlothCombo/Testing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SoAgency/XIVSlothCombo/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "0"
+        "LastUpdated": "1721724007"
     }
 ]
