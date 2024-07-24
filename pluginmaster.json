@@ -1,9 +1,9 @@
 [
     {
         "Author": "attick, daemitus, alymphocyte, Aki, Iaotle, Codemned, rushtothesun, damolitionn",
-        "Name": "XIVSlothComboFork",
+        "Name": "XIVSlothCombo",
         "Description": "XIVCombo But For Lazy Gamers, Should Have Everything That Original XIVCombo Has And More +++",
-        "InternalName": "XIVSlothComboFork",
+        "InternalName": "XIVSlothCombo",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/SoAgency/XIVSlothCombo",
         "ApplicableVersion": "any",
